@@ -75,5 +75,3 @@ El proyecto trabaja con un dataset principal:
 - seaborn >= 0.11.0  
 
 ---
-
-👉 Ahora sí, este README está **depurado y listo** para tu repositorio. ¿Quieres que te prepare también una **versión corta y ejecutiva** (tipo resumen de una página) para tu portafolio?
