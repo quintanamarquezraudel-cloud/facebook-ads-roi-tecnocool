@@ -4,3 +4,16 @@
 
 📁 Conjuntos de datos utilizados:
 - tecnocool.csv → Contiene información de campañas publicitarias segmentadas por edad, género e intereses, incluyendo métricas de clics, conversiones e inversión.
+
+🔄 Etapas del Análisis
+
+### 1. Carga y exploración inicial de datos
+- Importación de librerías necesarias (pandas, seaborn, matplotlib)
+- Carga del dataset y revisión de las primeras filas (.head())
+- Exploración de tipos de datos y estadísticas descriptivas (.info() y .describe())
+  
+### 2. Limpieza y preprocesamiento de datos
+- Corrección de columnas desalineadas en el dataset
+- Unificación de tipos de dato
+- Conversión de fechas y categorías
+- Verificación de duplicados y valores nulos/negativos
