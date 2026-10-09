@@ -31,8 +31,6 @@ El proyecto trabaja con un dataset principal:
 
 ---
 
-## 🔄 Etapas del Análisis
-
 ## 📂 Tipos de Procesos en el Proyecto
 
 ![Carga de Datos](https://img.shields.io/badge/CARGA%20DE%20DATOS-006400?style=for-the-badge)
@@ -43,6 +41,10 @@ El proyecto trabaja con un dataset principal:
 ![Segmentación](https://img.shields.io/badge/SEGMENTACIÓN-2E8B57?style=for-the-badge)
 
 ---
+
+## 🔄 Etapas del Análisis
+
+
 1. **Carga y Exploración de Datos**  
    - Importación de librerías (pandas, numpy, matplotlib, seaborn).  
    - Carga del dataset `tecnocool.csv`.  
