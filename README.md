@@ -1,4 +1,5 @@
 📊 Análisis TecnoCool - Optimización de Campañas en Facebook Ads
+
 🎯 Objetivo del Proyecto
 El objetivo de este proyecto es analizar los datos históricos de campañas publicitarias de TecnoCool en Facebook Ads para identificar qué segmentos de audiencia (edad, género) generan mejor ROI.
 El análisis busca optimizar el presupuesto publicitario y mejorar la efectividad de las campañas.
