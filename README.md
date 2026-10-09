@@ -17,21 +17,6 @@ El análisis busca **optimizar el presupuesto publicitario** y mejorar la efecti
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/SEABORN-0099CC?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://shields.io) ![Seaborn](https://shields.io)
-
----
-
-## 📂 Tipos de Procesos en el Proyecto
-
-```markdown
-![Carga de Datos](https://img.shields.io/badge/CARGA%20DE%20DATOS-006400?style=for-the-badge)
-![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-8B0000?style=for-the-badge)
-![Preprocesamiento](https://img.shields.io/badge/PREPROCESAMIENTO-00008B?style=for-the-badge)
-![Análisis Estadístico](https://img.shields.io/badge/ANÁLISIS%20ESTADÍSTICO-800080?style=for-the-badge)
-![Visualización](https://img.shields.io/badge/VISUALIZACIÓN-FF8C00?style=for-the-badge)
-![Segmentación](https://img.shields.io/badge/SEGMENTACIÓN-2E8B57?style=for-the-badge)
-```
-
 ---
 
 
@@ -47,6 +32,17 @@ El proyecto trabaja con un dataset principal:
 ---
 
 ## 🔄 Etapas del Análisis
+
+## 📂 Tipos de Procesos en el Proyecto
+
+![Carga de Datos](https://img.shields.io/badge/CARGA%20DE%20DATOS-006400?style=for-the-badge)
+![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-8B0000?style=for-the-badge)
+![Preprocesamiento](https://img.shields.io/badge/PREPROCESAMIENTO-00008B?style=for-the-badge)
+![Análisis Estadístico](https://img.shields.io/badge/ANÁLISIS%20ESTADÍSTICO-800080?style=for-the-badge)
+![Visualización](https://img.shields.io/badge/VISUALIZACIÓN-FF8C00?style=for-the-badge)
+![Segmentación](https://img.shields.io/badge/SEGMENTACIÓN-2E8B57?style=for-the-badge)
+
+---
 1. **Carga y Exploración de Datos**  
    - Importación de librerías (pandas, numpy, matplotlib, seaborn).  
    - Carga del dataset `tecnocool.csv`.  
@@ -102,13 +98,6 @@ El proyecto trabaja con un dataset principal:
 - seaborn >= 0.11.0  
 
 ---
-
-
-
-
-
-
-Perfecto, Eduardo 🙌. Aquí tienes el **README final con los badges integrados**, listo para subir a tu repositorio en GitHub. Lo estructuré para que se vea profesional y visualmente atractivo:
 
 ---
 
