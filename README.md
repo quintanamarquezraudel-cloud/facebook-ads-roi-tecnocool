@@ -202,3 +202,81 @@ El análisis busca **optimizar el presupuesto publicitario** y mejorar la efecti
 - seaborn >= 0.11.0  
 
 ---
+
+
+
+
+
+Genial, Eduardo 🙌. Aquí te dejo el **README final con los badges ya integrados y renderizados correctamente en Markdown**, listo para copiar y pegar en tu repositorio de GitHub:
+
+---
+
+# 📊 Análisis TecnoCool - Optimización de Campañas en Facebook Ads
+
+## 🎯 Objetivo del Proyecto
+El objetivo de este proyecto es **analizar los datos históricos de campañas publicitarias de TecnoCool en Facebook Ads** para identificar qué segmentos de audiencia (edad, género) generan mejor **ROI**.  
+El análisis busca **optimizar el presupuesto publicitario** y mejorar la efectividad de las campañas.
+
+---
+
+## 🔧 Herramientas Utilizadas
+
+`https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white`  
+`https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white`  
+`https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white`  
+`https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=plotly&logoColor=white`  
+`https://img.shields.io/badge/SEABORN-0099CC?style=for-the-badge`  
+
+---
+
+## 📁 Conjuntos de Datos Utilizados
+- **tecnocool.csv** → Información de campañas en Facebook Ads:  
+  - ID de anuncio y campaña  
+  - Fechas de inicio y fin  
+  - Segmentación (edad, género)  
+  - Métricas de desempeño (impresiones, clics, gasto, conversiones totales y aprobadas)  
+
+---
+
+## 🔄 Etapas del Análisis
+
+`https://img.shields.io/badge/CARGA%20DE%20DATOS-006400?style=for-the-badge`  
+`https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-8B0000?style=for-the-badge`  
+`https://img.shields.io/badge/PREPROCESAMIENTO-00008B?style=for-the-badge`  
+`https://img.shields.io/badge/AN%C3%81LISIS%20ESTAD%C3%8DSTICO-800080?style=for-the-badge`  
+`https://img.shields.io/badge/VISUALIZACI%C3%93N-FF8C00?style=for-the-badge`  
+`https://img.shields.io/badge/SEGMENTACI%C3%93N-2E8B57?style=for-the-badge`  
+
+1. **Carga y Exploración de Datos**  
+2. **Identificación de Problemas de Calidad**  
+3. **Preprocesamiento de Datos**  
+4. **Análisis Estadístico y Visualización**  
+5. **Segmentación de Audiencias**  
+6. **Insights Ejecutivos**  
+
+---
+
+## 🚀 Cómo Ejecutar el Proyecto
+### Opción 1: Google Colab (Recomendado)
+- Abrir el cuaderno en Google Colab.  
+- Asegurarse de tener el archivo `tecnocool.csv` en la carpeta `/datasets/`.  
+- Ejecutar las celdas en orden.  
+
+### Opción 2: Entorno Local
+- Clonar este repositorio.  
+- Instalar dependencias:  
+  ```bash
+  pip install pandas numpy matplotlib seaborn
+  ```
+- Colocar el dataset en `/datasets/`.  
+- Ejecutar el notebook en Jupyter.  
+
+---
+
+## 📋 Requisitos
+- pandas >= 1.3.0  
+- numpy >= 1.20.0  
+- matplotlib >= 3.0.0  
+- seaborn >= 0.11.0  
+
+---
